@@ -5,8 +5,8 @@ render() {
 
 return <div>
     <h1>Ashenafi Tesfaye </h1>
-    <p>Email: ashenafitesfaye883@gmail.com</p>
-    <p>Mobile: +1571 461 9579</p>
+    <p>Email: ashenafites44444@gmail.com</p>
+    <p>Mobile: +4444444444444444</p>
     <p>Twitter: coming soon </p>
     </div>
 }
